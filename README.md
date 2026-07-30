@@ -369,3 +369,6 @@ Values must be unique	Values can repeat
 Cannot be NULL	Can be NULL depending on table design
 Usually exists in parent table	Usually exists in child table
 Example: department_id in Departments	Example: department_id in Employees
+
+<img width="410" height="200" alt="image" src="https://github.com/user-attachments/assets/82ad58a5-061b-4d05-9fbe-6470cab73669" />
+
